@@ -60,11 +60,11 @@ Relatórios |  | [EspelhoDeNotasFiscais.png](imagens/master_3/EspelhoDeNotasFisc
 Descrição | Resumo | Imagem
 --- | --- | ---
 Cfops |  | [Cfops.png](imagens/master_3/Cfops.png)
-Classificações Fiscais |  | [ClassificacoesFiscais.png](imagens/master_3/ClassificacoesFiscais.png) <br> [CfopsAssociados](imagens/master_3/CfopsAssociados.png) 
+Classificações Fiscais |  | [ClassificacoesFiscais.png](imagens/master_3/ClassificacoesFiscais.png) <br> [CfopsAssociados](imagens/master_3/CfopsAssociados.png)
 Informações Complementares |  | [InformacoesComplementaresNF.png](imagens/master_3/InformacoesComplementaresNF.png)
 Ncm's |  | [Ncms.png](imagens/master_3/Ncms.png)
 Operações Fiscais |  | [OperacoesFiscais.png](imagens/master_3/OperacoesFiscais.png)
-PisConfins |  | [PisConfins.png](imagens/master_3/PisConfins.png)
+PisCofins |  | [PisCofins.png](imagens/master_3/PisCofins.png)
 Situações Tributarias |  | [SituacoesTributarias.png](imagens/master_3/SituacoesTributarias.png)
 Uf's |  | [Ufs.png](imagens/master_3/Ufs.png)
 Reclassificação Fiscal |  | [ReclassificacaoFiscal.png](imagens/master_3/ReclassificacaoFiscal.png)
